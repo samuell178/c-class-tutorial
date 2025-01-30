@@ -1,0 +1,14 @@
+C:\Users\EMAGE\Documents\new practice\bin\Debug\net8.0\new practice.exe
+C:\Users\EMAGE\Documents\new practice\bin\Debug\net8.0\new practice.deps.json
+C:\Users\EMAGE\Documents\new practice\bin\Debug\net8.0\new practice.runtimeconfig.json
+C:\Users\EMAGE\Documents\new practice\bin\Debug\net8.0\new practice.dll
+C:\Users\EMAGE\Documents\new practice\bin\Debug\net8.0\new practice.pdb
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.AssemblyInfoInputs.cache
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.AssemblyInfo.cs
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.csproj.CoreCompileInputs.cache
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.dll
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\refint\new practice.dll
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.pdb
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\new practice.genruntimeconfig.cache
+C:\Users\EMAGE\Documents\new practice\obj\Debug\net8.0\ref\new practice.dll
