@@ -1,16 +1,16 @@
-public class vowelCounter
+public class VowelCounter
 {
     public int countVowels (string input)
     {
-        int vowelCount = 0;
+        int VowelCount = 0;
         string Vowels = "aeiouAEIOU";
         foreach (char c in input)
         {
             if (Vowels.IndexOf(c) !=-1)
             {
-                vowelCount++;
+                VowelCount++;
             }
         }
-        return vowelCount;
+        return VowelCount;
     }
 }

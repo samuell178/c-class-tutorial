@@ -87,9 +87,9 @@ class Program
 {
    static void Main(string[] args)
    {
-    vowelCounter counter = new vowelCounter();
-    string input = "programming is hard";
-    int vowelCount = counter.countVowels(input);
+    VowelCounter counter = new VowelCounter();
+    string Input = "programming is hard";
+    int vowelCount = counter.countVowels(Input);
     Console.WriteLine($"number of vowels : {vowelCount}");
    } 
 }

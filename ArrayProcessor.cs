@@ -1,15 +1,15 @@
 public class ArrayProcessor 
 {
-    public int FindMaximum (int[] numbers)
+    public int FindMaximum (int[] Numbers)
     {
-        int max = numbers[0];
-        for (int i = 1; i < numbers.Length; i++)
+        int Max = Numbers[0];
+        for (int i = 1; i < Numbers.Length; i++)
         {
-            if (numbers[i] > max)
+            if (Numbers[i] > Max)
             {
-                max = numbers[i];
+                Max = Numbers[i];
             }
         }
-        return max;
+        return Max;
     }
 }
