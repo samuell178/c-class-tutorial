@@ -50,34 +50,4 @@
     }
 }
 */
-/*public class ArrayProcessor 
-{
-    public int FindMaximum (int[] numbers)
-    {
-        int max = numbers[0];
-        for (int i = 1; i < numbers.Length; i++)
-        {
-            if (numbers[i] > max)
-            {
-                max = numbers[i];
-            }
-        }
-        return max;
-    }
-}*/
-public class vowelCounter
-{
-    public int countVowels (string input)
-    {
-        int vowelCount = 0;
-        string Vowels = "aeiouAEIOU";
-        foreach (char c in input)
-        {
-            if (Vowels.IndexOf(c) !=-1)
-            {
-                vowelCount++;
-            }
-        }
-        return vowelCount;
-    }
-}
+
